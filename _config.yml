@@ -22,7 +22,6 @@ title: Linear Algebra
 email: chessturo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A set of notes on introductory linear algebra.
-baseurl: ""
 url: "https://lin-alg.chessturo.com"
 twitter_username: chessturo
 github_username:  chessturo
