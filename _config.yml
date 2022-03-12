@@ -30,9 +30,18 @@ github_username:  chessturo
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+markdown: kramdown
 
 # Analytics
 ga_tracking: G-2TPD73Q2DB
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      math: "mathjax3"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +62,4 @@ ga_tracking: G-2TPD73Q2DB
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
