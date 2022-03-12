@@ -31,6 +31,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
+# Analytics
+ga_tracking: G-2TPD73Q2DB
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
