@@ -43,6 +43,14 @@ defaults:
     values:
       math: "mathjax3"
 
+# Appearance
+heading_anchors: true
+gh_edit_link: true
+gh_edit_link_text: "Report issues or submit changes on GitHub."
+gh_edit_repository: "https://github.com/chessturo/linear-algebra"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
