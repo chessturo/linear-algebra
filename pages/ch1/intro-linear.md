@@ -51,7 +51,7 @@ that are particularly useful; the only reason that definition is so long-winded
 is to keep things as general as possible.
 
 ## Examples of Linear Equations
-Examples
+Example
 {: .label .label-purple }
 
 A simple linear equation would be something like $$3x + 7 = 0$$.
@@ -95,7 +95,7 @@ really going to discuss non-linear equations.
 This said, it's important to know what is and isn't a linear equation, so we're
 going to briefly discuss that here.
 
-Non-Examples
+Non-Example
 {: .label .label-red }
 
 It's important to note that the definition doesn't allow us to exponentiate the
