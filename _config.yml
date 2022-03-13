@@ -50,11 +50,11 @@ gh_edit_link_text: "Report issues or submit changes on GitHub."
 gh_edit_repository: "https://github.com/chessturo/linear-algebra"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
+color_scheme: dark
 
 # Search
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

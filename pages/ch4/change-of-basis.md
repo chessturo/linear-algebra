@@ -61,7 +61,7 @@ $$
 $$
 
 to mean "the vector $$\vec v$$ is equal to $$\transp{[1,2]}$$ with respect to
-basis $$B$$."
+basis $$B$$."_
 
 Hopefully, this makes it clear that the change of basis isn't really changing
 the vector in question; rather, it's just giving us a new way to interpret the
@@ -71,4 +71,19 @@ Cartesian/rectangular coordinates and polar coordinates.
 The points being talked about aren't changing, but it can be much easier to do
 certain kinds of problems in polar coordinates as compared to rectangular
 coordinates.
+
+## Computing a Change of Basis
+First, we're going to consider changing between some arbitrary basis $$B$$ and
+the standard basis.
+It's possible to construct a change between arbitrary bases by first going to
+the standard basis and then from the standard basis to any other basis.
+As such, we're just going to consider changing between the standard basis
+
+The simple case is converting *from* the other basis *to* the standard basis.
+Let's call the arbitrary basis $$B$$, composed of vectors $$\vec b_1$$, $$\vec
+b_2$$, &hellip;, $$\vec b_n$$.
+Let $$M$$ be the matrix with the basis vectors as its columns, $$M =
+\left(\vec b_1, \vec b_2, \ldots, \vec b_n\right)$$.
+
+
 
