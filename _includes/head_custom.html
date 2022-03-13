@@ -7,6 +7,11 @@
         tex: { 
           tags: 'ams',
           packages: {'[+]': ['textmacros']},
+          macros: {
+            R: "\\mathbb{R}",
+            vec: ["\\mathbf{#1}", 1],
+            transp: ["{#1}^{\\mathsf{T}}", 1],
+          },
         },
         loader: {
           load: ['[tex]/textmacros']
