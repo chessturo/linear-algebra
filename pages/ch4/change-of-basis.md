@@ -47,6 +47,13 @@ $$
 \begin{bmatrix} 7 \\ 4 \end{bmatrix} = \vec v
 $$
 
+Just like when we used the standard basis vectors, the first coordinate of our
+vector $$\transp{[1,2]}$$ multiplied the first basis vector, and the second
+coordinate multiplied the second basis vector.
+
+Definition
+{: .label .label-green }
+
 We'll use the notation:
 
 $$
