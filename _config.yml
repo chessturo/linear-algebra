@@ -51,6 +51,11 @@ gh_edit_repository: "https://github.com/chessturo/linear-algebra"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
+# Search
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
