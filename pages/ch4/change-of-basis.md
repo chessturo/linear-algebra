@@ -61,7 +61,7 @@ $$
 $$
 
 to mean "the vector $$\vec v$$ is equal to $$\transp{[1,2]}$$ with respect to
-basis $$B$$."_
+basis $$B$$."
 
 Hopefully, this makes it clear that the change of basis isn't really changing
 the vector in question; rather, it's just giving us a new way to interpret the
