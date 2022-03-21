@@ -147,3 +147,9 @@ all the lines in the system "laying on top of each other," like so:
 
 ![overlapping lines](/assets/img/plots/ch1/overlapping_lines.png)
 
+Hopefully this makes it clear why we couldn't have a system of linear equations
+with exactly two solutions; in order for this to happen, one of the lines would
+have to "bend."
+This is, of course, possible using *non-linear* equations, but for the purposes
+of linear algebra we don't worry about those.
+
