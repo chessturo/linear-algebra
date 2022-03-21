@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linear Equations
+title: Sec 1. Linear Equations
 nav_order: 1
 parent: Chapter 1 &mdash; Systems of Linear Equations
 ---
@@ -64,7 +64,7 @@ These don't exactly line up with the form from our definition, but we can use
 algebra to rewrite them such that they line up with the definition.
 As such, we consider these to be linear equations as well.
 You might have noticed here that there's only one value for $$x$$ that makes
-this equation true, we'll return to that shortly.
+this equation true, we'll return to that in the next section.
 
 A more slightly complex example would be something like $$y = 3x + 4$$.
 This isn't in the form given by our definition, but we can rewrite it as $$3x +

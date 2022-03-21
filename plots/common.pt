@@ -1,0 +1,33 @@
+set samples 3000
+set encoding utf8
+set terminal png transparent 
+
+# Text macros
+# base color #7153ed
+color = "rgb \"#7153ed\""
+color2 = "rgb \"#009c7b\""
+color3 = "rgb \"#ffd41a\""
+
+# Set linetypes
+set linetype 1 lc @color  lw 3
+set linetype 2 lc @color2 lw 3
+set linetype 3 lc @color3 lw 3
+
+# Setup grid quadrants
+# Adapted from https://stackoverflow.com/a/68936182
+set size square
+set xrange[-10:10]
+set yrange[-10:10]
+
+set border 0
+set xzeroaxis lt -1
+set yzeroaxis lt -1
+
+set xtics axis nomirror
+set ytics axis nomirror
+set mxtics 5
+set mytics 5
+set grid x y mx my
+set xtic add ('' 0)     # remove 0 from xtics
+set ytic add ('' 0)     # remove 0 from ytics
+

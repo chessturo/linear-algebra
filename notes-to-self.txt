@@ -1,2 +1,5 @@
 Run local test server: bundle-2.7 exec jekyll serve
-Regenerate search index: bundle-2.7 exec just-the-docs rake search:init
+
+TODO:
+- Get Jekyll to autocreate GnuPlot images
+

@@ -1,0 +1,2 @@
+plot -3*x + 4 title "y = -3x + 4", -3*x - 2 title "y = -3x - 2"
+
