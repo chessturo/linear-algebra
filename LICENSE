@@ -1,2 +1,8 @@
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Generic License.
-The full text of the license is available at https://creativecommons.org/licenses/by-sa/4.0/legalcode
+The text based portions of this work (e.g., files ending in .md) are licensed
+under the CC-BY-SA 4.0 International License. See LICENSE.cc for the full
+license.
+
+The code based portions of this work (e.g., files ending in .pt or .sh) are
+licensed under the GPLv3. See LICENSE.gpl for the full license. In the case of
+ambiguity, the GPL should be preferred.
+
