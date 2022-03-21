@@ -6,3 +6,13 @@ The code based portions of this work (e.g., files ending in .pt or .sh) are
 licensed under the GPLv3. See LICENSE.gpl for the full license. In the case of
 ambiguity, the GPL should be preferred.
 
+Works by others used in this project, which fall under other licenses:
+- Anything placed in the vendor/ directory, which should only be present if
+you've installed them from the Gemfile
+- assets/img/plots/ch1/intersecting-planes.svg, which carries the following
+attribution:
+By Alksentrs at en.wikipedia - Own work (Original text: Own work, based on
+en:Image:Linearsubspace.svg (by en:User:Jakob.scholbach).) Transferred from
+en.wikipedia to Commons by User:Ylebru using CommonsHelper., CC BY-SA 3.0,
+https://commons.wikimedia.org/w/index.php?curid=5773029
+

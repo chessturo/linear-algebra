@@ -153,3 +153,25 @@ have to "bend."
 This is, of course, possible using *non-linear* equations, but for the purposes
 of linear algebra we don't worry about those.
 
+## Higher Dimensions
+All of this still applies to higher dimensions, although the visualization gets
+much messier.
+For three variables, this would correspond to a 3D graph.
+Each linear equation would create a plane rather than a line, so two planes
+could be parallel (resulting in no solutions) or intersect and create a line
+of shared solutions (infinitely many solutions).
+Once we add a third plane, all three planes can intersect at a single point,
+have no points where all three planes intersect, or the third plane can be
+right on top of one of the other two and not change the set of solutions.
+
+This image from Wikipedia shows this case, the blue line is the intersection of
+two of the three planes, and all three intersect at a single common point.
+
+![intersecting planes](/assets/img/plots/ch1/intersecting-planes.svg)
+
+By Alksentrs at en.wikipedia - Own work (Original text: Own work, based on
+en:Image:Linearsubspace.svg (by en:User:Jakob.scholbach).) Transferred from
+en.wikipedia to Commons by User:Ylebru using CommonsHelper., CC BY-SA 3.0,
+https://commons.wikimedia.org/w/index.php?curid=5773029
+{: .fs-2 }
+
