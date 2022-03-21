@@ -75,13 +75,13 @@ that's more like the easy example.
 ## Types of Solutions
 When given a system of linear equations like this, the system will *always*
 fall into one of three cases:
-- There are no solutions to the system of equations.
-For example, consider the system $$x + 1 = 0$$ and $$x - 1 = 0$$, which has no
-solutions.
-- There is exactly one solution to the system of equations.
-Both of the examples above are of this type.
-- The are infinitely many solutions to the system of equations.
-For example, consider the system $$0 = x - y + 1$$ and $$0 = -x + y - 1$$.
+
+- There are no solutions to the system of equations. For example, consider the
+  system $$x + 1 = 0$$ and $$x - 1 = 0$$, which has no solutions.
+- There is exactly one solution to the system of equations. Both of the
+  examples above are of this type.
+- The are infinitely many solutions to the system of equations. For example,
+  consider the system $$0 = x - y + 1$$ and $$0 = -x + y - 1$$.
 
 It must be emphasized that *no matter what,* if all the equations in the system
 meet our definition of linear from the
