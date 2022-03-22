@@ -35,8 +35,8 @@ $$
 $$
 
 By our definition, we have a solution to this system when *both* equations are
-simultaneously satisifed.
-We know that the second equation is only satisifed when $$x = -\frac{7}{3}$$, so
+simultaneously satisfied.
+We know that the second equation is only satisfied when $$x = -\frac{7}{3}$$, so
 using this we can solve for the value of $$y$$ necessary to satisfy the system
 using some algebra:
 
@@ -69,7 +69,7 @@ would require considerably more effort to solve.
 (I'll leave it to you to take a crack at solving this one to demonstrate the
 amount of work needed to find the solution.)
 The goal of solving linear systems using the methods of linear algebra is to
-turn a system of equations like this hard exaple into a system of equations
+turn a system of equations like this hard example into a system of equations
 that's more like the easy example.
 
 ## Types of Solutions
@@ -94,7 +94,7 @@ The case of a one-variable system of linear equations is somewhat boring; all
 one-variable linear equations have one solution (e.g., $$x + 3 = 0$$ is only
 solved by $$x = -3$$).
 So when you combine them into a system, either they both have the same one
-solution, or they have different solutions and its impossible to satisfy both
+solution, or they have different solutions and it's impossible to satisfy both
 simultaneously.
 
 The case where you have a system of linear equations in two variables is where
@@ -128,7 +128,7 @@ Now consider, for a moment, what each of these two lines *represents*.
 Specifically, let's zoom in on the line $$y = -3x + 4$$.
 Each point, $$(x,y)$$, on that line is only "on the line" if it satisfies the
 equation $$y = -3x + 4$$ (or equivalently, $$0 = -3x - y + 4$$).
-Therefore we can think of each line as the set of all solutions to one of the
+Therefore, we can think of each line as the set of all solutions to one of the
 equations, and the point where these two lines cross is where *both* equations
 are satisfied simultaneously.
 
@@ -137,7 +137,7 @@ both equations are satisfied, can be described visually as asking where the two
 lines intersect.
 This visual representation is helpful for understanding *why* we can get one
 of the three types of sets of solutions we talked about earlier.
-No solutions corresponds to a system like this, where the lines are parallel:
+No solutions correspond to a system like this, where the lines are parallel:
 
 ![parallel lines](/assets/img/plots/ch1/parallel_lines.png)
 
