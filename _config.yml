@@ -30,7 +30,8 @@ github_username:  chessturo
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
-markdown: kramdown
+kramdown:
+  input: Kramdown 
 exclude:
   - 'plots/'
   - 'vendor/'
