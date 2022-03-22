@@ -5,5 +5,5 @@ nav_order: 1
 has_children: true
 ---
 
-# Chapter 1
+# Chapter 1 &mdash; Systems of Linear Equations
 
