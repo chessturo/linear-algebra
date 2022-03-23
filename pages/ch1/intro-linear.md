@@ -109,6 +109,7 @@ The only way you can combine unknowns is by adding them together (possibly with
 a constant multiplier).
 
 Other non-examples:
+
 - $$x^y = 3$$, you can only combine unknowns like $$a_1x + a_2y$$
 - $$\sqrt{x_1} = 4$$, you can't exponentiate terms, and $$\sqrt{x_1} =
 {x_1}^{\frac{1}{2}}$$
